@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Index from './components/index';
+import MovieList from './components/baitap2/movieList';
 
 function App() {
   return (
     <div className="App">
-      <Index></Index>
+      <MovieList />
     </div>
   );
 }
